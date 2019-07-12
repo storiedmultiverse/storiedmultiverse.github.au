@@ -1,2 +1,2 @@
 # storiedmultiverse.github.au
-entry point
+<a href="https://storiedmultiverse.github.io/manuscript/" target="_blank"> Maniscript </a>
