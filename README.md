@@ -1,4 +1,4 @@
-# storiedmultiverse.github.io
+# Storied Multiverse
 For a short introduction to Storied-Multiverse, check out an <a href="https://storiedmultiverse.github.io/overview/" target="_blank"> Overview. </a> 
 <br>
 More in depth description is available in the <a href="https://storiedmultiverse.github.io/manuscript/" target="_blank"> Manuscript. </a> 
