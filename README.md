@@ -6,7 +6,7 @@ More in depth description is available in the <a href="https://storiedmultiverse
 An earlier writing (a vague precursor of the Storied Multiverse) is available here <a href="https://storiedmultiverse.github.io/island/" target="_blank"> Island (in Russian) </a>
 <br>
 # Bundleverse
-Bundleverse is a digital platform enspired by Storied Multiverse <br>
+Bundleverse is a digital platform inspired by Storied Multiverse <br>
 Source code is available here (still work in progress) <a href="https://github.com/nugzarm/sizmari" targer="_blank"> Code </a>
 <br>
 For an overview checkout <a href="https://bundleverse.com:8080" targer="_blank"> Prototype </a>
