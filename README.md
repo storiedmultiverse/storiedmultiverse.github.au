@@ -9,4 +9,5 @@ An earlier writing (a vague precursor of the Storied Multiverse) is available he
 Bundleverse is a digital platform inspired by Storied Multiverse <br>
 Source code is available here (still work in progress) <a href="https://github.com/nugzarm/sizmari" targer="_blank"> Code </a>
 <br>
-For an overview checkout <a href="https://bundleverse.com:8080" targer="_blank"> https://bundleverse.com </a>
+For an example site checkout <a href="https://bundleverse.com:8080" targer="_blank"> https://bundleverse.com </a>
+User manual is here <a href="https://storiedmultiverse.github.io/bundleverse_manual/" target="_blank"> Bundleverse Manual </a> 
