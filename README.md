@@ -16,5 +16,5 @@ For a user manual see <a href="https://storiedmultiverse.github.io/bundleverse_m
 <br>
 
 # Sizmari
-Earlier (unsuccessful) attempt to raise funding for a <a href="https://sizmari.com/" target="_blank"> Bundleverse project </a>.
+Earlier (unsuccessful) attempt to raise funding for a <a href="https://sizmari.com/" target="_blank"> Bundleverse/Sizmari project </a>.
 
