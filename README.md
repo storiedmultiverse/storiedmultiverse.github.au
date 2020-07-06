@@ -10,11 +10,11 @@ An earlier writing (a vague precursor of the Storied Multiverse) is available he
 Bundleverse is a digital platform inspired by Storied Multiverse <br>
 Source code is available here (still work in progress) <a href="https://github.com/nugzarm/sizmari" targer="_blank"> Code </a>
 <br>
-For an example site checkout <a href="https://bundleverse.com:8080" targer="_blank"> https://bundleverse.com </a> (demo email: guest@gmail.com, demo password: bundleverse.guest)
+For a demo site checkout <a href="https://bundleverse.com" targer="_blank"> https://bundleverse.com </a> (email: guest@gmail.com, password: bundleverse.guest)
 <br>
-For a user manual check out <a href="https://storiedmultiverse.github.io/bundleverse_manual/" target="_blank"> Bundleverse Manual </a> 
+For a user manual see <a href="https://storiedmultiverse.github.io/bundleverse_manual/" target="_blank"> Bundleverse Manual </a> 
 <br>
 
 # Sizmari
-Earlier (unsuccessful) attempt to raise funding for a <a href="https://sizmari.com/" target="_blank"> project similar to Bundleverse </a>.
+Earlier (unsuccessful) attempt to raise funding for a <a href="https://sizmari.com/" target="_blank"> Bundleverse project </a>.
 
