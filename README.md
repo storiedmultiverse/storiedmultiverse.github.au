@@ -7,7 +7,7 @@ An earlier writing (a vague precursor of the Storied Multiverse) is available he
 <br>
 
 # Bundleverse
-Bundleverse is a digital platform inspired by Storied Multiverse <br>
+Bundleverse is a digital platform inspired by Storied Multiverse
 <br>
 For a demo site checkout <a href="https://bundleverse.com" targer="_blank"> https://bundleverse.com </a> (email: guest@gmail.com, password: bundleverse.guest)
 <br>
