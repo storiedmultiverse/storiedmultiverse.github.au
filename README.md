@@ -12,6 +12,3 @@ Bundleverse is a digital platform inspired by Storied Multiverse <a href="https:
 For a user manual see <a href="https://storiedmultiverse.github.io/bundleverse_manual/" target="_blank"> Bundleverse Manual </a> 
 <br>
 
-# Sizmari
-Earlier (unsuccessful) attempt to raise funding for a <a href="https://sizmari.com/" target="_blank"> Bundleverse/Sizmari project </a>.
-
